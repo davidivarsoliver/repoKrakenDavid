@@ -4,3 +4,4 @@ David Ivars Oliver
 (C)Benvinguda a la branca 02 David
 (D)Modificació 02 Main David
 (E)Afegim imatge a branca01
+(F)Afegim imatge a branca02
